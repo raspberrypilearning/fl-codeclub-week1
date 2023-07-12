@@ -1,59 +1,26 @@
-## Introduction
+!!! Resources
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+   + [Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4)
+   + [Video subtitles - English](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/CC_1.1.vtt)
+   + [Video subtitles - French](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_French__France__reviewed.vtt)
+   + [Video subtitles - Italian](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Italian_reviewed.vtt)
+   + [Video subtitles - Portuguese](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Portuguese__Brazil__reviewed.vtt)
+   + [Video subtitles - Spanish](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Spanish__Spain__reviewed.vtt)
 
-### What you will make
+## Welcome to the course
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Hello, and welcome to _Prepare to run a Code Club_.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+I'm really excited that you've chosen to join us to find out more about how to run a Code Club for young people.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+This course will be useful to you if:
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+* You would like to volunteer at a club in your community, helping young people learn how to code
 
-+ A computer or tablet capable of running Scratch 3
+* You are a teacher who wants to set up an extracurricular coding club for the students in your school
 
-### Software
+In this course, we’ll be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Throughout the course, we’ll offer you articles to read, videos to watch, activities to try, and opportunities to connect and exchange ideas with the Code Club community.
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Happy learning, and have fun!

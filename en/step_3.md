@@ -1,7 +1,12 @@
-## What next?
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+## Introduce Yourself
 
-![ProjectName project](images/projectname-project.png)
+The best way to learn is by collaborating with other amazing people.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+With this in mind, please introduce yourself to your fellow learners by commenting at the bottom of the page.
+
+Think about answering these questions:
+
+- what made you take the course?
+- what are you hoping to learn?
+- what steps will you take to ensure that you will complete the course? For example: setting aside some 'Do Not Disturb' time in your schedule each week, or inviting a friend to take it with you.
