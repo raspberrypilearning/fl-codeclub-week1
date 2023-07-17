@@ -4,10 +4,6 @@ Most Code Clubs start by using Scratch. It is perfect for young learners who are
 
 In this video, we introduce Scratch and describe how to make a basic program.
 
-You can also check out our handy guide to the Scratch interface below:
-
-![Scratch 3](https://s3-eu-west-1.amazonaws.com/downloads.codeclub.org.uk/Scratch3InterfaceGuide.png)
-
 <video width="100%" height="600" id="Introduction video" controls preload="metadata"
   source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_13+try+a+project.mp4" type="video/mp4">
   <track
@@ -37,6 +33,10 @@ You can also check out our handy guide to the Scratch interface below:
     srclang="pr"
     src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1_13_Scratch_screen_cast_Portuguese__Brazil__reviewed.vtt" />
 </video>
+
+You can also check out our handy guide to the Scratch interface below:
+
+![Scratch 3](https://s3-eu-west-1.amazonaws.com/downloads.codeclub.org.uk/Scratch3InterfaceGuide.png)
 
 ## Try out a Code Club Scratch project
 
