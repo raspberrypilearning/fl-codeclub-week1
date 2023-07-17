@@ -31,9 +31,11 @@
 
 ## Welcome to the course
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-Hello, and welcome to _Prepare to run a Code Club_.
-
+Hello, and welcome to <strong>Prepare to run a Code Club</strong>. 
+<br><br>
 I'm really excited that you've chosen to join us to find out more about how to run a Code Club for young people!
+<br>
+</p>
 
 This course will be useful to you if:
 
@@ -41,7 +43,6 @@ This course will be useful to you if:
 
 + You are a teacher who wants to set up an extracurricular coding club for the students in your school
 
-</p>
 
 In this course, we’ll be offering you step-by-step guidance to get your Code Club started. We will begin with the practicalities of planning and setting up, we'll guide you through planning and delivering your first session, and we'll end with ideas and tips on how to motivate your learners and celebrate their achievements.
 
