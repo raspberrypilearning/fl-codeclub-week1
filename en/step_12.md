@@ -1,4 +1,4 @@
-<iframe width="640" height="360" src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_12+intro+to+scratch.mp4" title="Code Club Introduction video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_12+intro+to+scratch.mp4" title="Code Club Introduction video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- collapse ---
 ---
