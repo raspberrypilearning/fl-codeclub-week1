@@ -15,7 +15,8 @@ Next week, we’ll be guiding you through the sessions with your club members st
 + How to structure your first session
 + How to answer questions
 
-## Task
+--- task ---
+
 Write a to-do list of what you need to do, research, or set up before your sessions begin. 
 
 ![hedgehog](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/3-formats-1.png)
@@ -25,5 +26,8 @@ For example, your list might say:
 + Set aside time to plan how often you want the club sessions to run
 + Register on the Code Club website
 + Decide which coding language to start off with in your club
+
+--- /task ---
+
 
 
