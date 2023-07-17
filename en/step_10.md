@@ -3,7 +3,7 @@
 
 You'll need some desktop computers, laptops, or Raspberry Pis for your club — but don't worry, the hardware doesn't have to be complicated or expensive.
 
-[Tracy Gardner](https://www.futurelearn.com/profiles/5024498), content writer for Raspberry Pi and leader of a Code Club, explains what you need for your club.
+[Tracy Gardner](https://www.futurelearn.com/profiles/5024498){:target="_blank"}, content writer for Raspberry Pi and leader of a Code Club, explains what you need for your club.
 
 * * *
 
@@ -25,7 +25,7 @@ Chromebooks work well for clubs too - but you'll need to use Scratch online, so 
 
 #### Raspberry Pi computers
 
-If you don't have laptop or desktop computers, you could also run a Code Club with just [Raspberry Pi](https://vimeo.com/90103691) computers and accessories — you can complete all the regular projects using such a setup.
+If you don't have laptop or desktop computers, you could also run a Code Club with just [Raspberry Pi](https://vimeo.com/90103691){:target="_blank"} computers and accessories — you can complete all the regular projects using such a setup.
 
 The Raspberry Pi is a low-cost credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse.
 
