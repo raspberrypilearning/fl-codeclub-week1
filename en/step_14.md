@@ -17,7 +17,7 @@ Next week, we’ll be guiding you through the sessions with your club members st
 + How to answer questions
 
 ## Task
-Write a to-do list of what you need to do, research, or set up before your sessions begin. Then add your list to the comments.
+Write a to-do list of what you need to do, research, or set up before your sessions begin. 
 
 ![hedgehog](https://s3-eu-west-1.amazonaws.com/rpf-futurelearn/CC+vol+training+/3-formats-1.png)
 
@@ -27,6 +27,4 @@ For example, your list might say:
 + Register on the Code Club website
 + Decide which coding language to start off with in your club
 
-Share your list with other learners on the course by clicking **Join the discussion** below.
 
-You might get some good ideas from someone else’s list which you can add to your own.

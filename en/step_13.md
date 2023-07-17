@@ -14,7 +14,7 @@ But for now, let's get coding!
 
 The project will take about 20–30 minutes to complete depending on your prior experience. Once you’ve had a go, come back and join in the discussion about how you got on.
 
-Click [this link](https://projects.raspberrypi.org/en/projects/lost-in-space) to start your Scratch project.
+Click [this link](https://projects.raspberrypi.org/en/projects/lost-in-space){:target="_blank"} to start your Scratch project.
 
 # Discussion
 
@@ -26,4 +26,4 @@ If you have any problems with the project, or encounter any bugs in your code, y
 
 You can also share a link to your completed project if you wish.
 
-Loved that project and want to try more? Try out the next Scratch projects in [Code Club Scratch Module 1](https://projects.raspberrypi.org/en/codeclub/scratch-module-1). 
+Loved that project and want to try more? Try out the next Scratch projects in [Code Club Scratch Module 1](https://projects.raspberrypi.org/en/codeclub/scratch-module-1){:target="_blank"}. 
