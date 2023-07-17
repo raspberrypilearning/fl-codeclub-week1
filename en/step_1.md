@@ -2,7 +2,7 @@
 
 --- collapse ---
 ---
-title: Video Subtitles
+title: Video Transcripts
 ---
 
    + [Video subtitles - English](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/CC_1.1.vtt)
