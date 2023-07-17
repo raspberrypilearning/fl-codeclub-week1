@@ -12,7 +12,7 @@ A great way to prepare for running a Code Club is to complete some projects your
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 Code Club has definitely shown me that learning new digital skills isn’t hard. If the kids can do it, so can I. Every week, I try out the project we are going to do at the Code Club at home. I’m really enjoying it, and impressed with my own growing coding skills.<br><br>
-<span style= "text-align:right; background-color: aliceblue; padding: 50px;">
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">
 - Elbrie de Kock, Code Club leader, Fryern Junior School, Southampton
 </span></p>
 
