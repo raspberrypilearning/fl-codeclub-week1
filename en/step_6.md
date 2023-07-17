@@ -1,4 +1,3 @@
-
 ## How to register with Code Club
 
 If you’d like to get involved, the first step is to register on the Code Club website.

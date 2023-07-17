@@ -1,7 +1,7 @@
 
 ## The young people at your club
 
-## Finding young people to attend your Club
+### Finding young people to attend your Club
 
 Once you’ve set the time and the place, the next step is to think about the young people who will be coming along to your Code Club.
 

@@ -1,4 +1,3 @@
-
 ## Get your hardware ready
 
 You'll need some desktop computers, laptops, or Raspberry Pis for your club — but don't worry, the hardware doesn't have to be complicated or expensive.

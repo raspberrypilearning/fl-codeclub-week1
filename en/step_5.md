@@ -1,7 +1,6 @@
 
 ## What do I need to know to be a Code Club volunteer?
 
-
 You absolutely don't need to be a developer, engineer, or coding genius to run a Code Club.
 
 Even if you're a complete newcomer to coding, you can still volunteer at a Code Club, and doing so is a great way to extend your digital skills.

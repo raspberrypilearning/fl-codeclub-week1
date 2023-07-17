@@ -1,4 +1,3 @@
-
 ## Week 1 recap — make a to-do list
 
 Well done for completing Week 1! You’re well on your way to getting your Code Club started. Let’s take a look back at what we have covered so far:

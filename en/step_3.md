@@ -1,5 +1,4 @@
-
-## Prepare Yourself
+## Get Prepared
 
 The best way to learn is by beginning with a plan and a set of objectives.
 

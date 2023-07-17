@@ -1,5 +1,3 @@
-<iframe width="100%" height="400" src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4" title="Code Club Introduction video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <video width="100%" height="600" id="Introduction video" controls preload="metadata"
   source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4" type="video/mp4" >
   <track

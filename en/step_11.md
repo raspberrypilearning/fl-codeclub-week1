@@ -1,4 +1,3 @@
-
 ## Get your software ready
 
 You’ll need software for coding too, so let’s talk about the options.

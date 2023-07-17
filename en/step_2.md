@@ -1,4 +1,3 @@
-
 ## Meet the team
 
 Before you begin the course, we’d like to introduce some members of the Code Club team who you'll be meeting along the way. They have a wealth of experience in helping to set up after-school coding clubs, and they will be around throughout this course to offer support and guidance.

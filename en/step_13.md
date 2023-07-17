@@ -1,6 +1,6 @@
-!!! Resources
-
-   + [Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_13+try+a+project.mp4)
+<video width="100%" height="600" id="Introduction video" controls preload="metadata"
+  source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_13+try+a+project.mp4" type="video/mp4">
+</video>
 
 ## Try out a Code Club Scratch project
 

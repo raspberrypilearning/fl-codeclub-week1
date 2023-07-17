@@ -1,4 +1,3 @@
-
 ## Let’s get planning!
 
 Planning is really important for making sure that your Code Club runs smoothly and that the club members enjoy it.
