@@ -21,7 +21,7 @@
   <track
     label="Italiano"
     kind="subtitles"
-    srclang="es"
+    srclang="it"
     src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Italian_reviewed.vtt" />
   <track
     label="Portugues"
