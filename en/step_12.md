@@ -1,7 +1,7 @@
 <iframe width="100%" height="600" src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_12+intro+to+scratch.mp4" title="Code Club Introduction video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video width="100%" height="600" id="Introduction video" controls preload="metadata">
-  <source src="(https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_12+intro+to+scratch.mp4)" type="video/mp4" />
+<video width="100%" height="600" id="Introduction video" controls preload="metadata"
+  source src="(https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_12+intro+to+scratch.mp4)" type="video/mp4" >
   <track
     label="English"
     kind="subtitles"
