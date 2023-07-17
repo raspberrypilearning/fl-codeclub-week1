@@ -1,17 +1,24 @@
-!!! Resources
+![Welcome to the course Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4)
 
-   + [Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4)
+--- collapse ---
+---
+title: Video Subtitles
+---
+
    + [Video subtitles - English](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/CC_1.1.vtt)
    + [Video subtitles - French](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_French__France__reviewed.vtt)
    + [Video subtitles - Italian](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Italian_reviewed.vtt)
    + [Video subtitles - Portuguese](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Portuguese__Brazil__reviewed.vtt)
    + [Video subtitles - Spanish](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/1.1_Week_1_Spanish__Spain__reviewed.vtt)
 
+
+--- /collapse ---
+
 ## Welcome to the course
 
 Hello, and welcome to _Prepare to run a Code Club_.
 
-I'm really excited that you've chosen to join us to find out more about how to run a Code Club for young people.
+I'm really excited that you've chosen to join us to find out more about how to run a Code Club for young people!
 
 This course will be useful to you if:
 

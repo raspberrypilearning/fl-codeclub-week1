@@ -17,8 +17,13 @@ The key thing is to make sure that the activity and the ability of the learners 
 ### How many attendees?
 On average, Code Clubs have around 15 young people attending each session. A good rule is to start with a small group. You can always take on more children once your club is established.
 
->*The good thing about Code Club is that is tends to be very popular. But this does mean that, during your planning stages, you need to think about how you will manage the numbers. For example, if your club has space for 14 children, you could advertise that places will be filled on a first come, first served basis. The first 14 children are offered a place for a term. Then the next 14 children from the waiting list are offered a place the following term.*
-**— Lorna Gibson, Code Club leader, Wormit Primary School, Fife**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+The good thing about Code Club is that is tends to be very popular. But this does mean that, during your planning stages, you need to think about how you will manage the numbers. For example, if your club has space for 14 children, you could advertise that places will be filled on a first come, first served basis. The first 14 children are offered a place for a term. Then the next 14 children from the waiting list are offered a place the following term.
+</p>
+<br><br>
+<p style= "text-align:right; border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+— Lorna Gibson, Code Club leader, Wormit Primary School, Fife
+</p>
 
 ### Where to find them
 When you’re setting up Code Club in a school, finding young people should be pretty easy! However, Code Clubs are often oversubscribed, so it’s worth taking the time to think about what you will do if you have more demand than spaces.

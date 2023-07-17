@@ -3,9 +3,9 @@
 
 If you’d like to get involved, the first step is to register on the Code Club website.
 
-During the registration process, you will be asked for a safeguarding sponsor. This is an additional person at your school, venue, or organisation who will work with you to ensure that young people are safe. It is worth thinking about who your safeguarding sponsor will be before you start the registration process.
+During the registration process, you will be asked for a **safeguarding sponsor**. This is an additional person at your school, venue, or organisation who will work with you to ensure that young people are safe. It is worth thinking about who your safeguarding sponsor will be before you start the registration process.
 
-###Registering with Code Club in the UK, Ireland, India or the USA.
+### Registering with Code Club in the UK, Ireland, India or the USA.
 
 If you are based in the UK, Ireland, India or the USA, head to the Code Club website at [codeclub.org](https://www.codeclub.org/) to get started.
 
@@ -13,8 +13,7 @@ If you do not live in the UK, Ireland, India or the USA, the website is differen
 
 ### Registering with Code Club around the world (all areas apart from the UK, Ireland, India and the USA)
 
-If you are registering a Code Club and you are *not* based in the UK, Ireland, India or the USA, head to the Code Club International website at
-[international.codeclub.org](http://international.codeclub.org) to find out more.
+If you are registering a Code Club and you are *not* based in the UK, Ireland, India or the USA, head to the Code Club International website at [international.codeclub.org](http://international.codeclub.org) to find out more.
 
 ### Teachers and educators
 Start by signing up and registering the details of your club.

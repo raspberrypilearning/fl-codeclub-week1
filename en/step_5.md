@@ -10,5 +10,10 @@ Using the free step-by-step projects Code Club provides, you can learn to create
 
 A great way to prepare for running a Code Club is to complete some projects yourself, and we'll be encouraging you to do that as part of this course.
 
->*Code Club has definitely shown me that learning new digital skills isn’t hard. If the kids can do it, so can I. Every week, I try out the project we are going to do at the Code Club at home. I’m really enjoying it, and impressed with my own growing coding skills.*
-**Elbrie de Kock, Code Club leader, Fryern Junior School, Southampton**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+Code Club has definitely shown me that learning new digital skills isn’t hard. If the kids can do it, so can I. Every week, I try out the project we are going to do at the Code Club at home. I’m really enjoying it, and impressed with my own growing coding skills.</p>
+<br><br>
+<p style= "text-align:right; border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+- Elbrie de Kock, Code Club leader, Fryern Junior School, Southampton
+</p>
+
