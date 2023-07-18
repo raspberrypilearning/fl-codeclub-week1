@@ -12,11 +12,18 @@ steps:
   - title: About Code Club
   - title: What do I need to know to be a Code Club volunteer?
   - title: How to register with Code Club
+    completion:
+      - engaged
   - title: Let’s get planning!
   - title: The young people at your club
   - title: Safeguarding
+    completion:
+      - internal
   - title: Get your hardware ready
   - title: Get your software ready
   - title: An introduction to Scratch
+    completion:
+      - external
+
   - title: Week 1 recap
 
