@@ -1,3 +1,5 @@
+## Welcome to the course
+
 <video width="100%" height="600" id="Introduction video" controls preload="metadata"
   source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step1_1+welcome+to+the+course.mp4" type="video/mp4" >
   <track
@@ -29,7 +31,6 @@
 </video>
 
 
-## Welcome to the course
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 Hello, and welcome to <strong>Prepare to run a Code Club</strong>. 
 <br><br>
